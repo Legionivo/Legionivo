@@ -4,7 +4,7 @@
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=tomkaX" alt="Legionivo" />
+<img src="https://komarev.com/ghpvc/?username=Legionivo" alt="Legionivo" />
 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="20" height="20"/>
