@@ -1,7 +1,7 @@
+![image](https://github.com/wanderindev/wanderindev/blob/master/assets/about-cover.png)
+
 <h1 align="center">Hi 👋, I'm Andrey Konovka </h1>
 <h3 align="center">A passionate Software developer, QA Automation Engineer, and Open Source contributor </h3>
-
-![image](https://github.com/wanderindev/wanderindev/blob/master/assets/about-cover.png)
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Legionivo" alt="Legionivo" />
