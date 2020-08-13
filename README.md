@@ -8,7 +8,8 @@
 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="20" height="20"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20"/></p> 
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="20" height="20"/></p> 
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/Legionivo?tab=repositories)
 
