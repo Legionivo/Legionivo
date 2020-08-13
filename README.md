@@ -1,7 +1,7 @@
 ![image](https://github.com/wanderindev/wanderindev/blob/master/assets/about-cover.png)
 
 <h1 align="center">Hi 👋, I'm Andrey Konovka </h1>
-<h3 align="center">A passionate Software developer, QA Automation Engineer, and Open Source contributor </h3>
+<h3 align="center">A passionate Software Engineer, QA Automation Engineer, and Open Source contributor </h3>
 
 
 My favourite tech stack is:
@@ -12,6 +12,7 @@ My favourite tech stack is:
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/></p> 
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/Legionivo?tab=repositories)
+- 👨 More info about me is [here](https://legionivo.github.io/about/)
 
 - 💬 Ask me about **anything**. I'm always open for a chat!
 
