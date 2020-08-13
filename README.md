@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Andrey Konovka </h1>
 <h3 align="center">A passionate Software developer, QA Automation Engineer, and Open Source contributor </h3>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Legionivo" alt="Legionivo" />
-<p>
+
 My favourite tech stack is:
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="40" height="40"/>
@@ -20,7 +18,9 @@ My favourite tech stack is:
 - 📫 How to reach me **konovka.andrey@gmail.com**
 
 
-
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Legionivo" alt="Legionivo" />
+<p>
 <p align="center"> 
   <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
  </p>
