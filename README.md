@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **legionivo@gmail.com**
+- 📫 How to reach me **konovka.andrey@gmail.com**
 
 
 
