@@ -19,7 +19,6 @@
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Legionivo&show_icons=true" alt="Legionivo" />
   <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
  </p>
 
