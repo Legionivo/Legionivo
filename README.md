@@ -27,8 +27,5 @@ My favourite tech stack is:
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Legionivo" alt="Legionivo" />
 <p>
-<p align="center"> 
-  <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
- </p>
 
 
