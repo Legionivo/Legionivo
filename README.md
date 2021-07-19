@@ -6,7 +6,6 @@
 
 My favourite tech stack is:
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="II" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/></p> 
