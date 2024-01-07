@@ -1,6 +1,6 @@
 ![image](https://github.com/wanderindev/wanderindev/blob/master/assets/about-cover.png)
 
-<h1 align="center">Hi 👋, I'm Andrey Konovka </h1>
+<h1 align="center">Hi 👋, I'm Andrii Konovka </h1>
 <h3 align="center">A passionate Software Engineer, QA Automation Engineer, and Open Source contributor </h3>
 
 
